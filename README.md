@@ -6,5 +6,5 @@ Blue Jays act as a natural alarm system for other birds. 😁
 
 ## Here is a screenshot of the design
 
-<img src="./luffy-skull.png" height="400px"  />
+<img src="./the_bluejay.png" height="400px"  />
 
