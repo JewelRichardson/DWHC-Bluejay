@@ -1,6 +1,5 @@
-# Drawing with CSS 1 (The Blue Jay)
+# Drawing with HTML & CSS No.1 (The Blue Jay)
 
-## Designing a bluejay with html & css only
 I like blue jays, they are pretty birds and are known for their intelligence and complex social systems with tight family bonds.
 Blue Jays act as a natural alarm system for other birds. 😁
 
