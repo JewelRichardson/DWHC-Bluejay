@@ -32,18 +32,6 @@ body {
   color: #7df17df1;
 }
 
-.container {
-  margin: 0 auto;
-  width: 400px;
-  height: 300px;
-  position: relative;
-  border: 1px solid black;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  background-color: black;
-}
-
 .neck {
   width: 150px;
   height: 150px;
