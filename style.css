@@ -1,8 +1,35 @@
+/* By Jewel Richardson | github.com/JewelRichardson */
+
 body {
   min-height: 100vh;
   display: flex;
   align-items: center;
   justify-content: center;
+  background-color: black;
+}
+
+#link-section {
+  color: white;
+  font-family: sans-serif;
+  font-size: 1rem;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  box-shadow: 0 1px 5px rgb(255 255 255 / 10%);
+  padding: 15px 23px;
+  text-align: center;
+}
+#link-section .author {
+  color: rgb(255 255 255 / 60%);
+}
+#link-section .title {
+  font-weight: bold;
+}
+#link-section .link:link {
+  color: #79ee79;
+}
+#link-section .link:visited {
+  color: #7df17df1;
 }
 
 .container {
